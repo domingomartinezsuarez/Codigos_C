@@ -1,0 +1,12 @@
+Hacer:  ( "$" es el prompt del terminal)
+
+donde NAME es uno de: sumatoria, newton, factorial, raizpoly2
+
+$ gcc -c NAME.c -o NAME.o
+$ gcc NAME.o -lm -o NAME
+
+y a continuación ejecutar
+
+$ ./NAME
+
+

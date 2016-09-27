@@ -1,0 +1,5 @@
+1 domingo 1500.88
+2 juan 20000.45
+3 pedro 32457.44
+4 enrique 21345.50
+vvv

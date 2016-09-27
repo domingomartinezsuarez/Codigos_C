@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1474423014 source:c:\users\domingo martínez\desktop\usb_lab__sep-dic\primera clase ci2126\ejemplo03\ejemplo03\tut46.c
+	<stdio.h>
+	<stdlib.h>
+	"tut46funciones.h"
+
+1474423102 c:\users\domingo martínez\desktop\usb_lab__sep-dic\primera clase ci2126\ejemplo03\ejemplo03\tut46funciones.h
+	<stdio.h>
+
+1474423065 source:c:\users\domingo martínez\desktop\usb_lab__sep-dic\primera clase ci2126\ejemplo03\ejemplo03\tut46funciones.c
+	"tut46funciones.h"
+
+1474423127 source:c:\users\domingo martínez\desktop\usb_lab__sep-dic\primera clase ci2126\ejemplo03\tut46.c
+	<stdio.h>
+	<stdlib.h>
+	"tut46funciones.h"
+
+1474423102 c:\users\domingo martínez\desktop\usb_lab__sep-dic\primera clase ci2126\ejemplo03\tut46funciones.h
+	<stdio.h>
+
+1474423065 source:c:\users\domingo martínez\desktop\usb_lab__sep-dic\primera clase ci2126\ejemplo03\tut46funciones.c
+	"tut46funciones.h"
+

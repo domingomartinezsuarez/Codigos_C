@@ -1,0 +1,9 @@
+
+
+	1.- Alcance de las Variables (Globales y Locales)
+	2.- Paso de parámetros por valor y referencia
+	3.- Recursión (funciones), funciones en línea. Macro con argumentos
+	4.- Archivos Header
+	5.- Creación de un proyecto
+	6.- Macros
+	7.- Debug en codeblock https://www.youtube.com/watch?v=w2YgC2Fu1m8
